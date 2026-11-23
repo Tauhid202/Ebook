@@ -1,0 +1,1 @@
+{"id":"Z66","desc":"Do not resuscitate status (Z66)","chapter_num":"21","chapter_desc":"Factors influencing health status and contact with health services (Z00-Z99)","notes":{},"diags":[{"code":"Z66","desc":"Do not resuscitate","placeholder":false,"is_leaf":true,"level":0,"requires_7th":false,"inclusionTerm":["DNR status"]}]}
